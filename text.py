@@ -13,9 +13,11 @@
 """
 print("xian")
 
+def xian():
+    pass
 
-
-
+def pass():
+    pass
 
 
 
